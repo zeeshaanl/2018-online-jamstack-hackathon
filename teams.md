@@ -492,3 +492,25 @@ Our team is split between front- and back-end development, creating and styling 
 
 ***
 
+# Simple Lifts Tracker
+### A barebones app to track your progress with the weights you lift at the gym
+* Teammates:
+    - Zeeshaan Lakdawala (@zeeshaan)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/zeeshaanl/simple-lifts-tracker)
+* Project Name: Simple Lifts Tracker
+
+### Project Q&A:
+1. What are you going to build?  
+An app with a simple UI to add exercises and weights lifted to track your progress at the gym.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+I plan to use FaunaDB to to store the weights and Netlify Identity for authentication.
+
+3. What is your plan to execute this idea?  
+First, make a mockup - https://www.scribd.com/document/392318211/Simple-Lifts-Tracker
+Then, build in small iterations. I plan to use a UI library for the basic components.
+I will break up the projects into simple tasks that others can take on and execute.
+
+***
+
